@@ -1,0 +1,19 @@
+.quiz-bg {
+  background-image: url("./img/background.png");
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.quiz-container {
+  position: absolute;
+  top: 5%;
+  left: 35%;
+  width: 464px;
+}
+
+.quiz-img {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
